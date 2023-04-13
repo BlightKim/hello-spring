@@ -35,7 +35,4 @@ out/
 
 ### VS Code ###
 .vscode/
-<<<<<<< HEAD
-=======
 /src/main/java/com/example/hellospring/repository/JdbcMemberRepository.java
->>>>>>> 117127b (from mac)
