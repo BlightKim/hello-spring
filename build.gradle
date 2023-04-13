@@ -5,10 +5,10 @@ plugins {
 }
 
 <<<<<<< HEAD
-group = 'com.example'
-=======
 group = 'hello'
->>>>>>> 04c6423 (2023-04-13)
+=======
+group = 'com.example'
+>>>>>>> 117127b (from mac)
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
