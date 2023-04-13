@@ -1,4 +1,4 @@
-package com.example.hellospring.domain;
+package hello.hellospring.domain;
 
 public class MemberForm {
     private String name;

@@ -35,4 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 /src/main/java/com/example/hellospring/repository/JdbcMemberRepository.java
+=======
+>>>>>>> 04c6423 (2023-04-13)

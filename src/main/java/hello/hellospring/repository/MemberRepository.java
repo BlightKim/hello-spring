@@ -1,8 +1,7 @@
-package com.example.hellospring.repository;
+package hello.hellospring.repository;
 
 
-import com.example.hellospring.domain.Member;
-
+import hello.hellospring.domain.Member;
 import java.util.List;
 import java.util.Optional;
 

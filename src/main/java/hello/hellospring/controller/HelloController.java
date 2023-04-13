@@ -1,6 +1,5 @@
-package com.example.hellospring.controller;
+package hello.hellospring.controller;
 
-import com.example.hellospring.service.MemberService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
