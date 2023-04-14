@@ -5,6 +5,7 @@ plugins {
 }
 
 group = 'hello'
+group = 'hello.hellospring'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
